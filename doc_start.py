@@ -6,8 +6,8 @@ from azure.ai.documentintelligence.models import AnalyzeResult
 from azure.ai.documentintelligence.models import AnalyzeDocumentRequest
 
 # set `<your-endpoint>` and `<your-key>` variables with the values from the Azure portal
-endpoint = "https://azureuser630.cognitiveservices.azure.com/"
-key = "7MYg7JSGYWKKeBg2jzxiUt2QfyrN0NIDZ7QqcERssyQmuIYWZtQxJQQJ99BDACYeBjFXJ3w3AAALACOG5j89"
+endpoint = ""
+key = ""
 
 # helper functions
 
